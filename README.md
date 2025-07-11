@@ -1,5 +1,3 @@
-# Barisalimmi
-Ozledım
 <!DOCTYPE html>
 <html lang="tr">
 <head>
